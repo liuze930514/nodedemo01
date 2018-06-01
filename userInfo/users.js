@@ -1,6 +1,3 @@
-var userInfo = {
-    name: "liuze",
-    age: "22"
+module.exports = {
+    name: "刘泽"
 }
-
-module.exports.userInfo;
