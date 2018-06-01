@@ -17,3 +17,5 @@ setTimeout(function() {
 (function() {
     console.info("Hello Word !!!");
 })();
+
+var a = "你好";
