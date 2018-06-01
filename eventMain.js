@@ -5,7 +5,7 @@ var b = "Hello Word !!";
 console.info(a,b);
 
 var gitFn = function() {
-    console.log(123);
+    console.info(123);
 }
 
 gitFn();
@@ -13,3 +13,7 @@ gitFn();
 setTimeout(function() {
     console.info(2333);
 },1000)
+
+(function() {
+    console.info("Hello Word !!!");
+})();
